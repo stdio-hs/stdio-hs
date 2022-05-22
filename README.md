@@ -9,17 +9,20 @@ __< 😄 INTRO 😄 >__ <br/>
 
 
 __< 📚 SKIILS 📚 >__ <br/>
-<div>
+
  - **Platforms** <br/>
+<div>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <br/><br/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+</div> <br/>
+
 
  - **Languages** <br/> 
+<div>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
- 
 </div>
  <br/><br/><br/><br/>
  
