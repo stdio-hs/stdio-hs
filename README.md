@@ -1,7 +1,9 @@
-### 👋 Hi there! My name is HYUNSUNG LEE.
+### 👋 Hi there! My name is HYUNSUNG LEE. 👋
 ### 🌱 My dream is to be a developer. 🌱
-###
-### 💬 [ 一 切 唯 心 造 ] _ Everything is made up solely by the mind
+
+dd
+
+### 💬 [ 一 切 唯 心 造 ] _ Everything is made up solely by the mind 💬
 ###
 
  
