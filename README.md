@@ -1,14 +1,21 @@
-### 👋 Hi there! My name is HYUNSUNG LEE. 👋
-### 🌱 My dream is to be a developer. 🌱
+✨ HYUNSUNG LEE ✨
+=====
 
-dd
+ < 😄 INTRO > <br/>
+👋 Hi there! My name is HYUNSUNG LEE. 👋
+<br/>
+🌱 My dream is to be a developer. 🌱
+<br/><br/>
+💬 [ 一 切 唯 心 造 ] _ Everything is made up solely by the mind 💬
+<br/><br/><br/>
 
-### 💬 [ 一 切 唯 心 造 ] _ Everything is made up solely by the mind 💬
-###
 
- 
+< 📚 STACKS >
 
-
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stdio-hs&show_icons=true&theme=radical)
 
