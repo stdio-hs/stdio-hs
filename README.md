@@ -31,7 +31,7 @@ __< 📚 SKIILS 📚 >__ <br/>
 
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 __< 📞 CONTACT 📞 >__ <br/>
  - 0118qaz@naver.com 
 
