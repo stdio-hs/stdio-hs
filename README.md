@@ -35,6 +35,7 @@ __[ 📚 SKIILS 📚 ]__ <br/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 __[ 📞 CONTACT 📞 ]__ <br/>
- - 0118qaz@naver.com 
+ - EMAIL : 0118qaz@naver.com 
+ - INSTA : @hyunsung_gg
 
 
