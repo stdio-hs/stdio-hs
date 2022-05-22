@@ -1,13 +1,13 @@
 ✨ HYUNSUNG LEE ✨
 =====
-__< 😄 INTRO 😄 >__ <br/>
+__[ 😄 INTRO 😄 ]__ <br/>
  - Hi there! My name is HYUNSUNG LEE. 👋 <br/>
  - My dream is to be a developer. 🌱 <br/>
  - [ 一 切 唯 心 造 ] _ Everything is made up solely by the mind 💬<br/><br/><br/><br/>
 
 
 
-__< 📚 SKIILS 📚 >__ <br/>
+__[ 📚 SKIILS 📚 ]__ <br/>
 
  - **Platforms** <br/>
 <div>
@@ -26,13 +26,13 @@ __< 📚 SKIILS 📚 >__ <br/>
  <br/><br/><br/><br/>
  
  
- __< ⚡ STATES ⚡ >__ <br/><br/>
+ __[ ⚡ STATES ⚡ ]__ <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stdio-hs&show_icons=true&theme=radical)
 
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-__< 📞 CONTACT 📞 >__ <br/>
+__[ 📞 CONTACT 📞 ]__ <br/>
  - 0118qaz@naver.com 
 
 
