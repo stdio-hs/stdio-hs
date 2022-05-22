@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+### My name is HYUNSUNG LEE
+### I live in KOREA
+ 
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stdio-hs&show_icons=true&theme=radical)
 
