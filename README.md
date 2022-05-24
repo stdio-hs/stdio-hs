@@ -33,7 +33,7 @@ __[ 📚 SKIILS 📚 ]__ <br/>
 
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 __[ 📞 CONTACT 📞 ]__ <br/>
  - EMAIL : 0118qaz@naver.com 
  - INSTA : @hyunsung_gg
