@@ -7,7 +7,7 @@ __[ 😄 INTRO 😄 ]__ <br/>
 
 
 
-__[ 📚 SKIILS 📚 ]__ <br/>
+__[ 📚 SKIILS 📚 ]__  <br/>
 
  - **Platforms** <br/>
 <div>
