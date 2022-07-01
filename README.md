@@ -9,6 +9,7 @@ __[ 😄 INTRO 😄 ]__ <br/>
 
 __[ 📚 SKIILS 📚 ]__  <br/>
 
+
  - **Platforms** <br/>
 <div>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
