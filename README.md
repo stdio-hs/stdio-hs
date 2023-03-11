@@ -6,7 +6,7 @@ __[ 😄 INTRO 😄 ]__
  - Hi there! My name is HYUNSUNG LEE. 👋 <br/>
  - My dream is to be a Data Scientist. 🌱 <br/>
  - [ 一 切 唯 心 造 ] _ Everything is made up solely by the mind 💬<br/><br/><br/><br/>
- 
+ - BLOG : https://stdio-hs.tistory.com 
 
 
 
@@ -39,7 +39,8 @@ __[ 📚 SKIILS 📚 ]__  <br/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 __[ 📞 CONTACT 📞 ]__ <br/>
- - EMAIL : 0118qaz@naver.com 
+ - EMAIL : 0118qaz@naver.com
+ - BLOG : https://stdio-hs.tistory.com
  - INSTAGRAM : @hyunsung_gg
 
 
