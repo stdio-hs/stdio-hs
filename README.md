@@ -4,7 +4,7 @@ __[ 😄 INTRO 😄 ]__
 <br/> 
 
  - Hi there! My name is HYUNSUNG LEE. 👋 <br/>
- - My dream is to be a [ IT Planning & Data Scientist ]. 🌱 <br/>
+ - My dream is to be a [ PMO Consultant ]. 🌱 <br/>
  - I Love [ IT & BODYBUILDING ]. 🌱 <br/>
  - [ 一 切 唯 心 造 ] _ Everything is made up solely by the mind 💬<br/>
  - BLOG : https://stdio-hs.tistory.com <br/><br/><br/><br/>
